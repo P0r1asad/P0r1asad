@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Krishnaprasad 👋
 
-<!--
-**P0r1asad/P0r1asad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science Student at Alliance University  
+📊 Data Analyst Intern at Analytics Career Connect  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Power BI
+- Machine Learning
+- Natural Language Processing
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Automated Waste Complaint Analysis using NLP
+Developed an NLP-based system that classifies municipal waste complaints using TF-IDF, Naive Bayes, and Logistic Regression. The project includes a Streamlit interface for real-time complaint analysis.
+
+🔗 Project Repository  
+https://github.com/P0r1asad/Automated-waste-complaint-NLP
+
+### AI Smart Waste Management System (Capstone – Ongoing)
+Developing an AI-driven smart waste management system using machine learning and data analytics to improve waste collection efficiency.
+
+## Connect with Me
+LinkedIn: https://www.linkedin.com/in/krishnaprasad-p-ab4968300
+GitHub: https://github.com/P0r1asad
