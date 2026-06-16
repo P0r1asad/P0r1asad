@@ -1,7 +1,10 @@
 # Hi, I'm Krishnaprasad 👋
 
-🎓 MSc Data Science Student at Alliance University  
-📊 Data Analyst Intern at Analytics Career Connect  
+🎓 MSc in Data Science, Alliance University
+
+💡 Interested in Machine Learning, NLP, Data Analytics, and MLOps
+
+🔍 Seeking Data Analyst, AI/ML Intern, Research Intern, and Entry-Level Data Science opportunities
 
 ## Skills
 - Python
@@ -19,7 +22,7 @@ Developed an NLP-based system that classifies municipal waste complaints using T
 🔗 Project Repository  
 https://github.com/P0r1asad/Automated-waste-complaint-NLP
 
-### AI Smart Waste Management System (Capstone – Ongoing)
+### AI Smart Waste Management System
 Developing an AI-driven smart waste management system using machine learning and data analytics to improve waste collection efficiency.
 
 ## Connect with Me
